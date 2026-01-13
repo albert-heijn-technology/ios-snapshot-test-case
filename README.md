@@ -1,3 +1,5 @@
+> This project is no longer maintained, feel free to fork the project.
+
 # iOSSnapshotTestCase (previously [FBSnapshotTestCase](https://github.com/facebookarchive/ios-snapshot-test-case))
 
 [![Build Status](https://travis-ci.org/uber/ios-snapshot-test-case.svg)](https://travis-ci.org/uber/ios-snapshot-test-case)
